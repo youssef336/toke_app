@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge" alt="Android | iOS" />
 </p>
 
+<p align="center">
+  <img src="docs/screens.jpg" alt="Screens" width="100%"/>
+  <br/><sub>Home · Numbers · Family members</sub>
+</p>
+
 ## 📖 About
 
 Toku is a small Japanese-vocabulary app I built while learning Flutter. Words are grouped into four categories. Each entry shows the Japanese reading, the English meaning and a picture, and tapping play speaks the word. The project practises widget composition, reusable components, data models, `Navigator` routing and audio playback with `audioplayers`.
